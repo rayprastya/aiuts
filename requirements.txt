@@ -2,3 +2,4 @@ Flask
 textblob
 gunicorn
 requests
+nltk
