@@ -1,2 +1,2 @@
-# aiuts
+# uts AI
 aku ganteng banget
